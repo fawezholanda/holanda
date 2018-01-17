@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Satisfy');
+
 
 @import "bootstrap";
 
@@ -40,6 +40,8 @@
   color: black;
   font-size: 25px;
   border-bottom: 1px solid #dfdfdf;
+  font-family: 'source_sans_probold';
+  font-weight: bold;
 }
 
 header {
@@ -50,12 +52,13 @@ hr {
   clear:both;
 }
 
+
 h1 {
   font-family: 'Satisfy', cursive;
 }
 
 h2 {
-  font-family: 'Satisfy', cursive;
+  font-family: 'source_sans_probold';
+  font-weight: bold;
+  font-size: 48px;
 }
-
-
